@@ -17,9 +17,10 @@ Công việc
 *Phân tích và Visualize dữ liêụ
 
 # 2. Tổng quan đồ án
-thu thập xử lý làm sạch và phân tích dữ liệu điểm thi đại học của thí sinh tại TPHCM 2020
-![image](https://user-images.githubusercontent.com/84485418/118959058-2ad38f80-b98c-11eb-8f8d-a6e2bf431bef.png)
-data sau khi đã làm sạch 
+Thu thập xử lý làm sạch và phân tích dữ liệu điểm thi đại học của thí sinh tại TPHCM 2020
 
-input: raw_data.txt : file html crawl data web 
-output: clean_data.csv: chứa data đã làm sạch và xử lý bằng python
+INPUT: raw_data.txt : file html crawl data web ![image](https://user-images.githubusercontent.com/84485418/118959058-2ad38f80-b98c-11eb-8f8d-a6e2bf431bef.png)
+data sau khi đã làm sạch 
+OUTPUT: clean_data.csv: chứa data đã làm sạch và xử lý bằng python
+![image](https://user-images.githubusercontent.com/84485418/119019887-d6e69c00-b9c7-11eb-929d-6662b240a587.png)
+
